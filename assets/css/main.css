@@ -1,0 +1,63 @@
+
+body{
+  background-color: #93f082;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.headerPanda{
+  background-color: #ff875f;
+  height: 10em;
+  color: white;
+  text-align: right;
+}
+
+.pandaFirst{
+  background-image: url(../img/uno.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 39em;
+}
+
+.pandaAbout{
+  background-color: #ff875f;
+  color: white;
+  text-align: center;
+}
+
+.pandaAbout p{
+  text-align: justify;
+}
+
+.pandaSecond{
+  background-image: url(../img/dos.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 39em;
+}
+
+.pictureTitle{
+  text-align: center;
+  color: white;
+}
+
+.pandaPictures{
+  width: 900px;
+}
+
+.pandaThird{
+  background-image: url(../img/tres.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 39em;
+}
+
+.pandaFooter{
+  background-color: #ff875f;
+  color: white;
+  text-align: right;
+}
+
+.row{
+  margin-bottom: 0;
+}
